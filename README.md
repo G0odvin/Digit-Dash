@@ -1,4 +1,24 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+- This is a JavaScript implementation of the popular game 2048. The game is played on a 4x4 grid, where the player slides numbered tiles around to merge them and create a tile with the number 2048.
+
+# Demo
+- Demo hosted
+
+# Features
+- New Game: Start a new game.
+- Score: Shows your current score and the highest score.
+
+# Built with
+- JavaScript
+- HTML
+- CSS/SCSS
+
+# Author
+https://www.linkedin.com/in/anton-novyk-50453a212/
+
+# Instructions
+- First clone this repository
+- Install dependencies. Make sure you already have nodejs & npm installed in your system.
+- $ npm install # or yarn
+- Run it
+- $ npm start # or yarn start
