@@ -1,4 +1,4 @@
-# 2048 Game
+# Digit Dash
 - This is a JavaScript implementation of the popular game 2048. The game is played on a 4x4 grid, where the player slides numbered tiles around to merge them and create a tile with the number 2048.
 
 # Demo
